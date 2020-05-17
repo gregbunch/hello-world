@@ -1,3 +1,4 @@
 # hello-world
 hello-world training 
-My name is Greg
+My first name is Greg
+My family name is Bunch
